@@ -7,6 +7,7 @@
 #include <string.h>
 
 
+
 void get_input() {
     char pad_buf[2][34];
     PADTYPE* pad = (PADTYPE*)pad_buf[0];
